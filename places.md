@@ -19,7 +19,7 @@
 | Frida Kahlo @ MoMA | 프리다 칼로 & 디에고 리베라 | 관심 |
 | MoMA Mart 팝업 | 가짜 음식 디자인 소품, ~3.29 (소호+미드타운) | 관심 |
 | NYC Vintage Pop-up @ Grand Bazaar | 일요일(3.15) 빈티지 마켓 | 관심 |
-| Outsider Art Fair | 비주류 미술 페어 (날짜 확인) | 조사필요 |
+| Outsider Art Fair | 3.19~22 개최, 방문 기간과 불일치 | 방문불가 |
 
 ### [브로드웨이](new-york.md#브로드웨이-31217-관람-가능)
 | 작품 | 특징 | 상태 |
@@ -110,7 +110,7 @@
 | Nanamica | 노스페이스 퍼플 라벨 | 소호 | 관심 |
 | Schott NYC | 가죽 재킷, 아메카지 성지 | 소호 | 관심 |
 | Extreme Cashmere | 세탁 가능 캐시미어, 네덜란드 | 소호 | 관심 |
-| Beams Plus | 25주년 팝업 (기간 확인 필요) | 놀리타 | 조사필요 |
+| ~~Beams Plus~~ | 25주년 팝업, 2025.2.28 종료됨 | 놀리타 | 종료됨 |
 
 ### [쇼핑 - 스트리트 패션](new-york.md#쇼핑---스트리트-패션)
 | 장소 | 특징 | 동네 | 상태 |
@@ -166,6 +166,9 @@
 | Disney's Pop Century Resort | 숙소 (디즈니) | 예약완료 |
 | 디즈니월드 4개 파크 | 관광 | 방문예정 |
 | Royal Caribbean 크루즈 | 관광/크루즈 | 예약완료 |
+| Disney Springs | 쇼핑/레스토랑, Day 2 | 관심 |
+| Orlando Premium Outlets | 아울렛 180개+, Day 2 | 관심 |
+| ICON Park & Orlando Eye | 관람차/쇼핑, Day 2 | 관심 |
 
 ---
 
@@ -192,7 +195,7 @@
 | Meeps | Adams Morgan 대표 빈티지샵, 20년+ | 관심 |
 | REDDz Trading | Georgetown, DC 최고 남성복 중고 | 관심 |
 | Buffalo Exchange | Georgetown/Dupont Circle | 관심 |
-| Analog | Brookland, 금/토/일만 오픈 | 관심 |
+| ~~Analog~~ | Brookland, 금/토/일만 (화~목 방문불가) | 방문불가 |
 
 ### [독립 부티크/소품샵](washington-dc.md#쇼핑---독립-부티크소품샵)
 | 장소 | 특징 | 상태 |
@@ -204,7 +207,7 @@
 ### [마켓](washington-dc.md#마켓)
 | 장소 | 특징 | 상태 |
 |------|------|------|
-| Eastern Market Flea Market | 주말만 운영 (토/일), 중고의류 | 관심 |
+| ~~Eastern Market Flea Market~~ | 토/일만 운영 (화~목 방문불가) | 방문불가 |
 
 ---
 
@@ -212,7 +215,7 @@
 
 | 아이템 | 카테고리 | 상태 |
 |--------|----------|------|
-| Meta Ray-Ban 스마트 선글라스 | 전자기기 | 조사필요 |
+| ~~Meta Ray-Ban 스마트 선글라스~~ | 전자기기, 한국 AI 미지원 | 비추천 |
 | Geier Glove (온라인→호텔배송) | 가죽 장갑 | 관심 |
 | Churchill Glove (온라인→호텔배송) | 가죽 장갑 | 관심 |
 
@@ -228,8 +231,9 @@
 
 ## 통계
 
-- **총 장소 수**: 101개
+- **총 장소 수**: 104개
 - **예약완료**: 5개
 - **방문예정**: 3개
-- **관심**: 90개
-- **조사필요**: 3개
+- **관심**: 88개
+- **방문불가/종료/비추천**: 5개 (Analog, Eastern Market, Beams Plus, Outsider Art Fair, Meta Ray-Ban)
+- **조사필요**: 0개
