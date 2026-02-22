@@ -49,6 +49,7 @@
 - [ ] Starbucks Reserve Roastery — 콜드브루 위스키 추천 (첼시)
 - [ ] Frame NYC — 한국인 운영 감성 카페 (어퍼이스트사이드)
 - [ ] Cha Cha Matcha — 스트로베리 말차 추천 (NoMad 외 다수)
+- [ ] 12 Matcha — 세레모니얼 말차, Noma 출신 셰프, 바스크 치즈케이크 (NoHo)
 - [ ] Van Leeuwen Ice Cream — 수제 아이스크림 (브루클린 브릿지 근처)
 - [ ] Butler — 호주 스타일 카페 (소호/DUMBO)
 - [ ] Do Not Feed Alligators — 카페+서점 (웨스트빌리지)
@@ -121,6 +122,9 @@
 - [ ] Dashwood Books — 사진책/아트북 전문 (노호)
 
 ### [쇼핑 - 기타](new-york.md#쇼핑---라이프스타일)
+- [ ] Yoseka Stationery — 대만 문구점, 아시아 문구류 전문 (Greenpoint, 브루클린)
+- [ ] Zoomies — 반려견 부티크, 수제 비스킷 바 (웨스트빌리지)
+- [ ] Dog & Co. — 반려견 부티크, 큐레이션 용품 (6th Ave)
 - [ ] TANGERINE — 라이프스타일 편집숍 (브루클린)
 - [ ] Sermoneta Gloves — 페커리 장갑 피팅 (미드타운)
 - [ ] Bergdorf Goodman — 럭셔리 백화점 (미드타운)
@@ -201,9 +205,9 @@
 
 ## 통계
 
-- **총 장소 수**: 114개
+- **총 장소 수**: 118개
 - **예약완료**: 5개
 - **방문예정**: 4개
-- **관심**: 97개
+- **관심**: 101개
 - **방문불가/종료/비추천**: 5개
 - **조사필요**: 0개
